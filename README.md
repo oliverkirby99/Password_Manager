@@ -1,6 +1,8 @@
 # Password_Manager
 Check the .README for details. Login, add/view passwords. Password file is encrypted.
 
+You need Python and run 'pip install cryptography' in cmd/terminal
+
 Password is admin
 
 the KEY file is required for encryption/decryption. Although, that makes the program really unsafe.
